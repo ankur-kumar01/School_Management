@@ -1,2 +1,2 @@
 # School_Management
- School Management Web App
+ Web application for School Management
